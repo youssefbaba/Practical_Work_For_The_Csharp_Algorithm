@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise1\\Exercise1.csproj",
+      "projectUniqueName": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Works\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise1\\Exercise1.csproj",
       "projectName": "Exercise1",
-      "projectPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise1\\Exercise1.csproj",
+      "projectPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Works\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise1\\Exercise1.csproj",
       "packagesPath": "C:\\Users\\Youssef Baba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise1\\obj\\",
+      "outputPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Works\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssef Baba\\AppData\\Roaming\\NuGet\\NuGet.Config",
