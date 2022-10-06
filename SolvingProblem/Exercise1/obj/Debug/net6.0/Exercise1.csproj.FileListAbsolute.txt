@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\bin\Debug\net6.0\Exercise1.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\bin\Debug\net6.0\Exercise1.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\bin\Debug\net6.0\Exercise1.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\bin\Debug\net6.0\Exercise1.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\bin\Debug\net6.0\Exercise1.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\Exercise1.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\refint\Exercise1.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\Exercise1.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\Exercise1.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise1\obj\Debug\net6.0\ref\Exercise1.dll
