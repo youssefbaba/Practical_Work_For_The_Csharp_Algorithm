@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\bin\Debug\net6.0\Exercise5.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\bin\Debug\net6.0\Exercise5.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\bin\Debug\net6.0\Exercise5.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\bin\Debug\net6.0\Exercise5.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\bin\Debug\net6.0\Exercise5.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\Exercise5.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\Exercise5.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\refint\Exercise5.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\Exercise5.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\Exercise5.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Practical_Works\Practical_Work_For_The_Csharp_Algorithm\SolvingProblem\Exercise5\obj\Debug\net6.0\ref\Exercise5.dll
