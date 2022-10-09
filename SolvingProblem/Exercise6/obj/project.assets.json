@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Youssef Baba\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Works\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise6\\Exercise6.csproj",
+      "projectName": "Exercise6",
+      "projectPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Works\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise6\\Exercise6.csproj",
+      "packagesPath": "C:\\Users\\Youssef Baba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Practical_Works\\Practical_Work_For_The_Csharp_Algorithm\\SolvingProblem\\Exercise6\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Youssef Baba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
